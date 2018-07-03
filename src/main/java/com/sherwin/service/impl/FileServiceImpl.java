@@ -1,8 +1,8 @@
 package com.sherwin.service.impl;
 
 import com.google.common.collect.Lists;
-import com.mmall.service.IFileService;
-import com.mmall.util.FTPUtil;
+import com.sherwin.service.IFileService;
+import com.sherwin.util.FTPUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;

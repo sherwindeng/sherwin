@@ -3,10 +3,10 @@ package com.sherwin.service.impl;
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
 import com.google.common.collect.Maps;
-import com.mmall.common.ServerResponse;
-import com.mmall.dao.ShippingMapper;
-import com.mmall.pojo.Shipping;
-import com.mmall.service.IShippingService;
+import com.sherwin.common.ServerResponse;
+import com.sherwin.dao.ShippingMapper;
+import com.sherwin.pojo.Shipping;
+import com.sherwin.service.IShippingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

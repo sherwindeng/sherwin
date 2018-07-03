@@ -1,12 +1,12 @@
 package com.sherwin.service.impl;
 
-import com.mmall.common.Const;
-import com.mmall.common.ServerResponse;
-import com.mmall.common.TokenCache;
-import com.mmall.dao.UserMapper;
-import com.mmall.pojo.User;
-import com.mmall.service.IUserService;
-import com.mmall.util.MD5Util;
+import com.sherwin.common.Const;
+import com.sherwin.common.ServerResponse;
+import com.sherwin.common.TokenCache;
+import com.sherwin.dao.UserMapper;
+import com.sherwin.pojo.User;
+import com.sherwin.service.IUserService;
+import com.sherwin.util.MD5Util;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;

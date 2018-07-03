@@ -1,11 +1,11 @@
 package com.sherwin.controller.backend;
 
-import com.mmall.common.Const;
-import com.mmall.common.ResponseCode;
-import com.mmall.common.ServerResponse;
-import com.mmall.pojo.User;
-import com.mmall.service.ICategoryService;
-import com.mmall.service.IUserService;
+import com.sherwin.common.Const;
+import com.sherwin.common.ResponseCode;
+import com.sherwin.common.ServerResponse;
+import com.sherwin.pojo.User;
+import com.sherwin.service.ICategoryService;
+import com.sherwin.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

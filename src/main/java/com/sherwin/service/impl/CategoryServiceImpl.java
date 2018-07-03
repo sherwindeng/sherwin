@@ -2,10 +2,10 @@ package com.sherwin.service.impl;
 
 import com.google.common.collect.Lists;
 import com.google.common.collect.Sets;
-import com.mmall.common.ServerResponse;
-import com.mmall.dao.CategoryMapper;
-import com.mmall.pojo.Category;
-import com.mmall.service.ICategoryService;
+import com.sherwin.common.ServerResponse;
+import com.sherwin.dao.CategoryMapper;
+import com.sherwin.pojo.Category;
+import com.sherwin.service.ICategoryService;
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;

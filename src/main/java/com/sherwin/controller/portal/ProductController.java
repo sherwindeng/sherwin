@@ -1,9 +1,9 @@
 package com.sherwin.controller.portal;
 
 import com.github.pagehelper.PageInfo;
-import com.mmall.common.ServerResponse;
-import com.mmall.service.IProductService;
-import com.mmall.vo.ProductDetailVo;
+import com.sherwin.common.ServerResponse;
+import com.sherwin.service.IProductService;
+import com.sherwin.vo.ProductDetailVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
